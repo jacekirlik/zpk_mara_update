@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Function group for ZPR_MARA_UPDATE</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZFG_MARA_UPDATETOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZFG_MARA_UPDATE</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZFM_MARA_UPDATE</FUNCNAME>
+     <UPDATE_TASK>1</UPDATE_TASK>
+     <SHORT_TEXT>Function module for ZPR_MARA_UPDATE</SHORT_TEXT>
+     <IMPORT>
+      <RSIMP>
+       <PARAMETER>IT_UPD</PARAMETER>
+       <OPTIONAL>X</OPTIONAL>
+       <TYP>MARA</TYP>
+      </RSIMP>
+     </IMPORT>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>IT_UPD</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>General Material Data</STEXT>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
