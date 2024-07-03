@@ -11,11 +11,12 @@ This solution has been created during buisness requirements when standard mass c
 - BAPI_MATERIAL_SAVEDATA
 - BAPI_TRANSACTION_COMMIT
 
+> [!TIP]
+> It might a base for update any field and any table.
+
 ### Video:
 Please find below video presentation for working solution.
 ![screen]( )
 
 
-> [!TIP]
-> It might a base for update any field and any table.
 
