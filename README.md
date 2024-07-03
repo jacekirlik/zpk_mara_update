@@ -9,9 +9,11 @@ Please find below video presentation for working solution.
 ![screen]( )
 
 > [!NOTE]
-Created in two versions:
-> - Directly change in databese table
-> - Using BAPI
+> Created in two versions:
+> 1. Directly change in databese table
+> 2. Using BAPIs:
+>    - BAPI_MATERIAL_SAVEDATA
+>    - BAPI_TRANSACTION_COMMIT
 
 > [!TIP]
 > It might a base for update any field and any table.
