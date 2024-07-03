@@ -8,9 +8,9 @@ This solution has been created during buisness requirements when standard mass c
 ![screen]( )
 
 > [!NOTE]
-> 1. Created in two versions:
-> * Directly change in databese table
-> * Using BAPI
+> - Created in two versions:
+>     - Directly change in databese table
+>     - Using BAPI
 
 > [!TIP]
 > It might be perfect base for update any field and any table.
