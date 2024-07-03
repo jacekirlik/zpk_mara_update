@@ -11,5 +11,5 @@ This solution has been created during buisness requirements when standard mass c
 > 1. Created in two versions:
 > * Directly change in databese table
 > * Using BAPI
-> 2. It might be perfect base for update any field and any table as well as base to extend.
+> 2. It might be perfect base for update any field and any table as well as a base to extend the program of additional updates.
 
