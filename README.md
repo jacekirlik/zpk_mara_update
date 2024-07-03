@@ -17,7 +17,7 @@ You can find two versions of program.
 
 ## Video:
 Please find below video presentation for working solution.
-![screen]( )
 
+> soon
 
 
