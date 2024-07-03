@@ -5,6 +5,7 @@ Report for update MARA Table with data from CSV file.
 ## Info
 This solution has been created during buisness requirements when standard mass change transactions became insufficient. It is based on change MATKL field in MARA table with data from CSV file.
 
+Please find below video presentation for working solution.
 ![screen]( )
 
 > [!NOTE]
