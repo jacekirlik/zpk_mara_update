@@ -8,7 +8,7 @@ This solution has been created during buisness requirements when standard mass c
 Please find below video presentation for working solution.
 ![screen]( )
 
-> [!NOTE]:
+> [!NOTE]
 > Created in two versions:
 > - Directly change in databese table
 > - Using BAPI
