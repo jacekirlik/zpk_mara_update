@@ -9,10 +9,10 @@ Please find below video presentation for working solution.
 ![screen]( )
 
 > [!NOTE]:
-Created in two versions:
+> Created in two versions:
 > - Directly change in databese table
 > - Using BAPI
 
 > [!TIP]
-> It might be perfect base for update any field and any table.
+> It might a base for update any field and any table.
 
