@@ -13,8 +13,5 @@ This solution has been created during buisness requirements when standard mass c
 > * Using BAPI
 
 > [!TIP]
-> 1. Created in two versions:
-> * Directly change in databese table
-> * Using BAPI
-> 2. It might be perfect base for update any field and any table.
+> It might be perfect base for update any field and any table.
 
