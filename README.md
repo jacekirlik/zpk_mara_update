@@ -12,9 +12,9 @@ You can find two versions of program.
     - BAPI_TRANSACTION_COMMIT
 
 > [!TIP]
-> It might a base for update any field and any table.
+> It might be a base for update any field and any table.
 
-### Video:
+## Video:
 Please find below video presentation for working solution.
 ![screen]( )
 
