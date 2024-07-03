@@ -1,10 +1,15 @@
 # zpk_mara_update
-Report for MARA Table updateHave fun with classic Circle and Cross game! 
+
+Report for update MARA Table with data from CSV file.
 
 ## Info
-Simple 3x3 board in ALV view to mark in turns circle and cross and determine the corresponding winner. 
+This solution has been created during buisness requirements when standard mass change transactions became insufficient. It is based on change MATKL field in MARA table with data from CSV file.
 
 ![screen]( )
 
-> [!NOTE]
-> Ver. 1.00
+> [!TIP]
+> 1. Created in two versions:
+> * Directly change in databese table
+> * Using BAPI
+> 2. It might be perfect base for update any field and any table as well as base to extend.
+
