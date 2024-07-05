@@ -15,7 +15,7 @@ You can find two versions of program.
     - `BAPI_MATERIAL_SAVEDATA`
     - `BAPI_TRANSACTION_COMMIT`
 
-## Video:
+## Video
 Please find below video presentation for working solution.
 
 > soon
