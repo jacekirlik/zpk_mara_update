@@ -1,6 +1,6 @@
 # zpk_mara_update
 
-Report for update MARA Table with data from CSV file.
+Report for update MARA table with data from CSV file.
 
 ## Info
 This solution has been created during buisness requirements when standard mass change transactions became insufficient. It is based on change MATKL field in MARA table with data from CSV file. 
