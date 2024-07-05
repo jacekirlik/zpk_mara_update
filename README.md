@@ -18,7 +18,7 @@ You can find two versions of program.
 ## Video
 Please find below video presentation for working solution (by clicking you will be redirected to Vimeo service).
 
-[![screen](https://github.com/jacekirlik/zpk_mara_update/blob/e09f4168981f697912332f895f7c6e4f93ac429d/screen.png)](https://vimeo.com/977685705){:target="_blank" rel="noopener"}
+[[![screen](https://github.com/jacekirlik/zpk_mara_update/blob/e09f4168981f697912332f895f7c6e4f93ac429d/screen.png)](https://vimeo.com/977685705)]{:target="_blank"}
 
 
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
