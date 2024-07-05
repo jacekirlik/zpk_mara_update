@@ -16,7 +16,8 @@ You can find two versions of program.
     - `BAPI_TRANSACTION_COMMIT`
 
 ## Video
-Please find below video presentation for working solution <sub>(*by clicking you will be redirected to Vimeo service*)</su>.
+Please find below video presentation for working solution.
+<sub>(*by clicking you will be redirected to Vimeo service*)</su>.
 
 [![screen](https://github.com/jacekirlik/zpk_mara_update/blob/e09f4168981f697912332f895f7c6e4f93ac429d/screen.png)](https://vimeo.com/977685705)
 
