@@ -103,7 +103,7 @@ FORM upload_file .
 
         CALL METHOD cl_gui_frontend_services=>gui_upload
           EXPORTING
-            filename                = gv_file            " Name of file
+            filename                = gv_file           " Name of file
             filetype                = 'ASC'             " File Type (ASCII, Binary)
           CHANGING
             data_tab                = gt_importfile     " Transfer table for file contents
